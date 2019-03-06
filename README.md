@@ -1,8 +1,9 @@
-Charles' iPhone 5
+Charles' iPhone 8
 =============
 
 Chrome extension that replaces occurrences of 'iPhone' with 'Charles' iPhone'.
 
+Original project direct download:
 [Direct download of crx file](https://github.com/SmartestDoge/Charles-iPhone-5)
 
 
